@@ -1,0 +1,1 @@
+mini repo provide to vue-eslint-parser
